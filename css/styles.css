@@ -146,12 +146,6 @@ a {
 
 }
 
-h2 {
-    font-size: 36px;
-    line-height: 40px;
-    font-weight: 700;
-    color: #2E2F42;
-}
 
 .our_team {
     background-color: #F4F4FD;
@@ -165,4 +159,8 @@ h2 {
     text-align: center;
     text-transform: capitalize;
     color: #2E2F42;
+}
+
+.our_team_img {
+    background-color: #FFFFFF;
 }
