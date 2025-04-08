@@ -174,4 +174,28 @@ a {
     color: #2e2f42;
 }
 
+.footer {
+    background-color: #2e2f42;
 
+}
+
+.logo_footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.span_footer {
+    color: #f4f4fd;
+
+}
+
+.footer_p {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
