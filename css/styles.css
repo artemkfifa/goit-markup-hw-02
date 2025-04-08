@@ -164,3 +164,14 @@ a {
 .our_team_img {
     background-color: #FFFFFF;
 }
+
+.our_portfolio_title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+
