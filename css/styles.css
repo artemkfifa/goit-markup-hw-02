@@ -4,8 +4,7 @@ body {
     background-color: #FFFFFF;
 }
 
-ul,
-ol {
+ul,ol {
     list-style: none;
 }
 
@@ -13,16 +12,11 @@ p {
     color: #434455;
     font-size: 16px;
     line-height: 24px;
+    letter-spacing: 0.02em;
+    
 }
 
-h1 {
-    font-size: 56px;
-    line-height: 1.07;
-    font-weight: 700;
-    color: #FFFFFF;
-    text-align: center;
-    letter-spacing: 0.02em;
-}
+
 
 h2 {
     font-size: 36px;
@@ -114,7 +108,15 @@ a {
 
 .section_solution {
     background-color: #2e2f42;
+}
 
+.section_solution_h1 {
+    font-size: 56px;
+    line-height: 1.07;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .section_benefit {
@@ -122,15 +124,11 @@ a {
 }
 
 .section_benefit h3 {
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
-    line-height: 1.2;
+    text-transform: capitalize
    
-}
-
-.section_benefit p {
-    letter-spacing: 0.02em;
 }
 
 .button_order {
