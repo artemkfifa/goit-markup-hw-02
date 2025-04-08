@@ -109,21 +109,30 @@ a {
     color: #404BBF;
 }
 
+.section_solution {
+    background-color: #2e2f42;
+
+}
+
+.section_solution_h1 {
+    line-height: 1.07px;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
 .button_order {
-    height: 56px;
-    width: 169px;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     vertical-align: middle;
     color: #FFFFFF;
     background-color: #4D5AE5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
 
 }
 
 .button_order:hover {
-    height: 56px;
-    width: 169px;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -131,5 +140,14 @@ a {
     color: #FFFFFF;
     background-color: #404BBF;
     cursor: pointer;
+}
 
+.button_order:hover {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    vertical-align: middle;
+    color: #FFFFFF;
+    background-color: #404BBF;
+    cursor: pointer;
 }
