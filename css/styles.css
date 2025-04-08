@@ -24,7 +24,7 @@ a {
 }
 
 .logo_span {
-    color: #f4f4fd;
+    color: #2e2f42;
 
 }
 
@@ -57,7 +57,10 @@ a {
     color: #404BBF;
 }
 
-.nav_address a {
+.nav_address {
+    font-style: normal;
+}
+.nav_address_a {
     font-size: 16px;
     line-height: 24px;
     color: #434455;
@@ -185,7 +188,7 @@ a {
 }
 
 .span_footer {
-    color: #f4f4fd;
+    color: #f4f4fd; 
 
 }
 
