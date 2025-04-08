@@ -15,25 +15,20 @@ a {
 
 .logo {
     font-family: "Raleway", sans-serif;
-    font-size: 18px;
     font-weight: 700;
-    color: #4D5AE5;
-    vertical-align: middle;
-    line-height: 1.17px;
+    font-size: 18px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4d5ae5;
 }
 
 .logo_span {
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    color: #2E2F42;
-    vertical-align: middle;
+    color: #f4f4fd;
 
 }
 
-.nav_menu a {
+.nav_menu_link {
     font-size: 16px;
     line-height: 24px;
     font-weight: 500;
