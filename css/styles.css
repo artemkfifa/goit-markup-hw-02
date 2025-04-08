@@ -1,6 +1,6 @@
 body {
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
-    color: #2E2F42;
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
     background-color: #FFFFFF;
 }
 
@@ -43,19 +43,21 @@ a {
 .logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
-    line-height: 21px;
     font-weight: 700;
-    color: #2E2F42;
+    color: #4D5AE5;
     vertical-align: middle;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .logo_span {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
-    line-height: 21px;
     font-weight: 700;
-    color: #4D5AE5;
+    color: #2E2F42;
     vertical-align: middle;
+
 }
 
 .nav_menu a {
@@ -63,6 +65,7 @@ a {
     line-height: 24px;
     font-weight: 500;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .nav_menu a:hover {
@@ -79,13 +82,28 @@ a {
     color: #404BBF;
 }
 
+.nav_menu a:focus {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #404BBF;
+}
+
 .nav_address a {
     font-size: 16px;
     line-height: 24px;
     color: #434455;
+    font-style: normal;
+    letter-spacing: 0.02em;
 }
 
 .nav_address a:hover {
+    font-size: 16px;
+    line-height: 24px;
+    color: #404BBF;
+}
+
+.nav_address a:focus {
     font-size: 16px;
     line-height: 24px;
     color: #404BBF;
