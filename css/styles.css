@@ -117,8 +117,16 @@ a {
 
 }
 
-.section_solution_h1 {
-    
+.section_benefit {
+    background-color: #F4F4FD;
+}
+
+.section_benefit h3 {
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+   
 }
 
 .button_order {
