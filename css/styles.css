@@ -95,7 +95,7 @@
         letter-spacing: 0.02em;
     }
 
-    .button_order {
+    .button_main {
         font-weight: 500;
         font-size: 16px;
         line-height: 24px;
@@ -106,7 +106,7 @@
 
     }
 
-    .button_order:hover {
+    .button_main:hover {
         font-weight: 500;
         font-size: 16px;
         line-height: 24px;
@@ -115,7 +115,7 @@
         cursor: pointer;
     }
 
-    .button_order:focus {
+    .button_main:focus {
         font-weight: 500;
         font-size: 16px;
         line-height: 24px;
